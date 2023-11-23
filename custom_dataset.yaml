@@ -1,0 +1,9 @@
+#train and val data
+train: ../dataset/images/train/
+val: ../dataset/images/val/
+
+#number of classes
+nc: 7
+
+#class names
+names: ['speed limit 30km/h','speed limit 60km/h','speed limit 90km/h','speed limit 40km/h','speed limit 50km/h','speed limit 70km/h','speed limit 80km/h']
