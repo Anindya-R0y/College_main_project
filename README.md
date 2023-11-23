@@ -15,7 +15,7 @@ https://rb.gy/3m3cbi
 
 I'm also uploading "custom_dataset.yaml" file which we need to run the project, in this repo.
 
-After downloading, while you're running this project place this ".yaml" file observing the following path (yolov5/data/custom_dataset.yaml).
+After downloading, before you're running this project place this ".yaml" file observing the following path (yolov5/data/custom_dataset.yaml).
 
 -----------------------------------------------------------
 
